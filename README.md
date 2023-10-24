@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1tek1&" alt="1tek1" /></p>
 
-
+![snake gif](https://github.com/1tek1/1tek1/blob/output/github-contribution-grid-snake.gif)
