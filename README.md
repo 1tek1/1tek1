@@ -1,4 +1,4 @@
- [![MasterHead](https://www.pexels.com/tr-tr/fotograf/siyah-ve-gri-dizustu-bilgisayar-546819/)
+
 <h1 align="center">Hi 👋, I'm Tahir Ekrem Koru</h1>
 <h3 align="center">Computer engineering student</h3>
 
