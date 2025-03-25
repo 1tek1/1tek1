@@ -8,7 +8,7 @@
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **Cyber Security**
 
 - 💬 Ask me about **Software**
 
