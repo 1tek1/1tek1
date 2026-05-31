@@ -91,16 +91,11 @@ Clearance  : Always Learning
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
  
----
----
- 
 ## 🏆 CTF & Certifications
  
 - 🎯 Actively participating in **CTF competitions** (Hack The Box, TryHackMe)
 - 📜 Pursuing industry certifications in **ethical hacking & security analysis**
 - 🔬 Building hands-on labs for **threat simulation & detection**
-
----
  
 ## 🌐 Connect With Me
  
